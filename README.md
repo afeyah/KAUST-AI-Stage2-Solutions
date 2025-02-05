@@ -17,8 +17,6 @@ Inside this repository, you will find:
 - **Exam Stage:** Stage 2  
 - **Location:** KAU-Building 29
 
-This project reflects my learning journey and my practical approach to solving real-world AI problems during the exam.
-
 ## Feedback & Contributions
 
 If you have suggestions, improvements, or find any issues, please feel free to [open an issue](https://github.com/afeyah/KAUST-AI-Stage2-Solutions/issues) or submit a pull request.
